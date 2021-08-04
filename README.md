@@ -1,6 +1,4 @@
 # Build-Sites
 My site builds
 
-## Demo Links
-
-https://andreivl.github.io/Build-Sites/Pervopechatnik2/
+https://andreivl.github.io/Build-Sites/Pervopechatnik/
