@@ -3,6 +3,6 @@ My site builds
 
 ## Demo Links
 
-https://github.com/AndreiVl/Build-Sites/Craft-Lance/
+https://andreivl.github.io/Build-Sites/Craft-Lance/
 
-https://github.com/AndreiVl/Build-Sites/Pervopechatnik2/
+https://andreivl.github.io/Build-Sites/Pervopechatnik2/
